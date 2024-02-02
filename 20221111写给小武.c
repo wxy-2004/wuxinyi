@@ -10,7 +10,7 @@ int main()
     scanf ("%d",&day1 );
     if (day1==618)
     {
-        printf ("  输入正确啦,我爱你!\n\n");
+        printf ("  输入正确啦,现在想的就是这个数字!\n\n");
     }
         else
         {
