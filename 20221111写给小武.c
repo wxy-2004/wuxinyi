@@ -6,7 +6,7 @@ int main()
     int day3=0;
     int i =0;
     int day4=0;
-    printf ("\n  今天是在一起的第几天?\n");
+    printf ("\n  猜个数字吧！\n");
     scanf ("%d",&day1 );
     if (day1==618)
     {
