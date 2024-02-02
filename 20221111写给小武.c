@@ -6,11 +6,11 @@ int main()
     int day3=0;
     int i =0;
     int day4=0;
-    printf ("\n  猜个数字吧！\n");
+    printf ("\n  请输入我们在一起的天数！\n");
     scanf ("%d",&day1 );
     if (day1==618)
     {
-        printf ("  输入正确啦,现在想的就是这个数字!\n\n");
+        printf ("  输入正确啦,我们在一起618天啦!\n\n");
     }
         else
         {
@@ -26,7 +26,7 @@ int main()
     }
     else if (day2 ==30)
     {
-        printf ("  第30天，非常爱朱明晖！\n");
+        printf ("  第30天，非常爱你！\n");
     }
     else if (day2>30&&day2<60)
     {
@@ -34,7 +34,7 @@ int main()
     }
     else if (day2 ==60)
     {
-        printf ("  第60天，非常爱朱明晖！\n");
+        printf ("  第60天，非常爱你！\n");
     }
     else if (day2 >60&&day2 <90)
     {
@@ -42,7 +42,7 @@ int main()
     }
     else if (day2 ==90)
     {
-        printf ("  第90天，非常爱朱明晖！\n");
+        printf ("  第90天，非常爱你！\n");
     }
     else if (day2>90&&day2 <120)
     {
@@ -50,7 +50,7 @@ int main()
     }
     else if (day2 ==120)
     {
-        printf ("  第120天，非常爱朱明晖！\n");
+        printf ("  第120天，非常爱你！\n");
     }
     else if (day2>120&& day2<150)
     {
@@ -58,7 +58,7 @@ int main()
     }
     else if (day2 ==150)
     {
-        printf ("  第150天，非常爱朱明晖！\n");
+        printf ("  第150天，非常爱你！\n");
     }
     else if (day2 >150&&day2<180)
     {
@@ -66,7 +66,7 @@ int main()
     }
     else if (day2 ==180)
     {
-        printf ("  第180天，非常爱朱明晖！\n");
+        printf ("  第180天，非常爱你！\n");
     }
     else if (day2>180&&day2<210)
     {
@@ -74,7 +74,7 @@ int main()
     }
     else if (day2 ==210)
     {
-        printf ("  第210天，非常爱朱明晖！\n");
+        printf ("  第210天，非常爱你！\n");
     }
     else if (day2>210&&day2<240)
     {
@@ -82,7 +82,7 @@ int main()
     }
     else if (day2 ==240)
     {
-        printf ("  第240天，非常爱朱明晖！\n");
+        printf ("  第240天，非常爱你！\n");
     }
     else if (day2>240&&day2<270)
     {
@@ -90,7 +90,7 @@ int main()
     }
     else if (day2 ==270)
     {
-        printf ("  第270天，非常爱朱明晖！\n");
+        printf ("  第270天，非常爱你！\n");
     }
     else if (day2>270&&day2<300)
     {
@@ -98,7 +98,7 @@ int main()
     }
     else if (day2 ==300)
     {
-        printf ("  第300天，非常爱朱明晖！\n");
+        printf ("  第300天，非常爱你！\n");
     }
     else if (day2>300&&day2 <330)
     {
@@ -106,7 +106,7 @@ int main()
     }
     else if (day2 ==330)
     {
-        printf ("  第330天，非常爱朱明晖！\n");
+        printf ("  第330天，非常爱你！\n");
     }
     else if (day2 >330&&day2 <360)
     {
@@ -114,7 +114,7 @@ int main()
     }
     else if (day2 ==360)
     {
-        printf ("  第360天，非常爱朱明晖！\n");
+        printf ("  第360天，非常爱你！\n");
     }
     else if (day2>360&&day2 <390)
     {
@@ -122,7 +122,7 @@ int main()
     }
     else if (day2 ==390)
     {
-        printf ("  第390天，非常爱朱明晖！\n");
+        printf ("  第390天，非常爱你！\n");
     }
     else if (day2 >390&&day2 <420)
     {
@@ -130,7 +130,7 @@ int main()
     }
     else if (day2 ==420)
     {
-        printf ("  第420天，非常爱朱明晖！\n");
+        printf ("  第420天，非常爱你！\n");
     }
     else if (day2 >420&&day2 <450)
     {
@@ -138,7 +138,7 @@ int main()
     }
     else if (day2 ==450)
     {
-        printf ("  第450天，非常爱朱明晖！\n");
+        printf ("  第450天，非常爱你！\n");
     }
     else if (day2 >450&&day2<480)
     {
@@ -146,7 +146,7 @@ int main()
     }
     else if (day2 ==480)
     {
-        printf ("  第480天，非常爱朱明晖！\n");
+        printf ("  第480天，非常爱你！\n");
     }
     else if (day2 >480&&day2 <510)
     {
@@ -154,7 +154,7 @@ int main()
     }
     else if (day2 ==510)
     {
-        printf ("  第510天，非常爱朱明晖！\n");
+        printf ("  第510天，非常爱你！\n");
     }
     else if (day2 >510&&day2 <540)
     {
@@ -162,7 +162,7 @@ int main()
     }
     else if (day2 ==540)
     {
-        printf ("  第540天，非常爱朱明晖！\n");
+        printf ("  第540天，非常爱你！\n");
     }
     else if (day2>540&&day2 <570)
     {
@@ -170,7 +170,7 @@ int main()
     }
     else if (day2 ==570)
     {
-        printf ("  第570天，非常爱朱明晖！\n");
+        printf ("  第570天，非常爱你！\n");
     }
     else if (day2 >570&&day2 <600)
     {
@@ -178,7 +178,7 @@ int main()
     }
     else if (day2 ==600)
     {
-        printf ("  第600天，非常爱朱明晖！\n");
+        printf ("  第600天，非常爱你！\n");
     }
     else if (day2 >600&&day2 <=618)
     {
@@ -202,7 +202,7 @@ int main()
     scanf ("%d",&day4);
     switch (day4)
     {
-        case 1: printf ("  朱明晖你永远是武馨怡最爱的人！\n");
+        case 1: printf ("  你永远是武馨怡最爱的人！\n");
             for (i =1;i <=2;i ++)
             {
                 printf ("  永远是，永远是！\n");
